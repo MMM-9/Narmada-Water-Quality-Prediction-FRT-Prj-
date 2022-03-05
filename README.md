@@ -93,6 +93,12 @@ And it is running.
 
 Step 7:
 We name the downloaded dataset as book.xlsx and convert it to csv format and upload that csv to the datasets.
+
+
+![Screenshot (487)](https://user-images.githubusercontent.com/63444165/156884973-9e9ba31c-0d47-41e0-80e9-e7798034c884.png)
+
+
+
 For simplicity, as of now we are scrapping other information and only including the Min, Max and Mean data of the Temp and D.O. in out data alongwith the Station Code.
 Go to datasets create new and fill in all the details
 
